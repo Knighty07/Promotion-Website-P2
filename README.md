@@ -8,4 +8,7 @@
 #### cool
 - [] this is a text box
 - [x] this is a checked box 
-- <del> [x] this is a checked box </del>
+- [x] </del> this is a checked box </del>
+-------
+Check list for promotional websites
+ 
