@@ -19,10 +19,11 @@
 ### A website for people to sell DIY/Homemade items
 ### A website advertising local businesses 
 ### Website promoting University 
+### Website promoting small media creators
 ------------
 # Website checlist needed
 ## Color pallet needed 
-## Images and graphics designs gathered
+## Images and graphics designs gathered , animals
 ## attach the needed htmls and urls 
 ## comeplete "about myself"--contact information 
 ## the text that will be needed- something to convince or a product to sell for charity 
