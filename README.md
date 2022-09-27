@@ -20,10 +20,10 @@
 ### A website advertising local businesses 
 ### Website promoting University 
 ### Website promoting small media creators
-###### Andrew Tate Top G
+###### Andrew Tate Top G 
 ------------
 # Website checlist needed
-## Color pallet needed 
+## Color pallete needed 
 ## Images and graphics designs gathered , animals
 ## attach the needed htmls and urls 
 ## comeplete "about myself"--contact information 
@@ -31,3 +31,8 @@
 ## a link to be able to dontate to a charity to support animals
 ## Promote our local conservation of environemnt and parks
 ## 
+
+
+ <title><h1 style="background-color:MediumSeaGreen;>">Welcome to the animal fundraiser website </h1></title>
+
+
