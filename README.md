@@ -23,16 +23,16 @@
 ###### Andrew Tate Top G 
 ------------
 # Website checlist needed
+## Public and locally hosted website setup
 ## Color pallete needed 
 ## Images and graphics designs gathered , animals
 ## attach the needed htmls and urls 
-## comeplete "about myself"--contact information 
 ## the text that will be needed- something to convince or a product to sell for charity 
 ## a link to be able to dontate to a charity to support animals
 ## Promote our local conservation of environemnt and parks
-## 
+## Flex box and style
+## Semantic Tags
 
 
- <title><h1 style="background-color:MediumSeaGreen;>">Welcome to the animal fundraiser website </h1></title>
 
 
