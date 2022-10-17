@@ -33,6 +33,8 @@
 ## Flex box and style
 ## Semantic Tags
 
-
+# The use of aside and section tag
+# Hyperlinking 
+# Inserting images
 
 
